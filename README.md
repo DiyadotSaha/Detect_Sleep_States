@@ -15,6 +15,12 @@
   <li> sklearn </li>
 </ul>
 
-## How to run feature expansion
-train_events_csv = pd.read_csv('/data/train_events.csv') <br>
-pandas_df = pd.read_csv('/data/pandas_df.csv')
+## How to import datasets
+`train_events_csv = pd.read_csv('/data/train_events.csv')`
+<br>
+`pandas_df = pd.read_csv('/data/pandas_df.csv')`
+
+## Run feature expansion code
+`randomseries= ['1b92be89db4c', '655f19eabf1e', '5c55a5e717d6']`
+<br>
+`feature_df=merging_patients(randomseries)`
