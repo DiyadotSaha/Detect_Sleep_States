@@ -14,3 +14,7 @@
   <li> matplotlib </li>
   <li> sklearn </li>
 </ul>
+
+## How to run feature expansion
+train_events_csv = pd.read_csv('/data/train_events.csv') <br>
+pandas_df = pd.read_csv('/data/pandas_df.csv')
