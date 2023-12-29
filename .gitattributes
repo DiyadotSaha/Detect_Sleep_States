@@ -1,0 +1,2 @@
+# to change language of repo from Jupiternotebook to Python
+    *.ipynb linguist-language=python
